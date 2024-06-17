@@ -14,7 +14,7 @@
 	<name>T2208E_WCD</name>
 	<description>T2208E_WCD</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
